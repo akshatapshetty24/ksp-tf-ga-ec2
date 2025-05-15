@@ -2,7 +2,7 @@
 
 Include:
 
-Project purpose
-How to set up secrets in GitHub
-How to trigger workflows
+Project purpose, 
+How to set up secrets in GitHub, 
+How to trigger workflows, and 
 How to destroy EC2 instance
